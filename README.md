@@ -25,7 +25,10 @@
 <br>
 
 ## Data collection
+Original data
+- [소상공인시장진흥공단 상권 정보](https://www.data.go.kr/data/15083033/fileData.do)
 
+외부 데이터
 - dataset1) [우리마을가게 상권분석서비스(상권영역)](https://data.seoul.go.kr/dataList/OA-15560/S/1/datasetView.do)
 - dataset2) [우리마을가게 상권분석서비스(상권-상주인구)](https://data.seoul.go.kr/dataList/OA-15584/S/1/datasetView.do#)
 - dataset3) [우리마을가게 상권분석서비스(상권-소득소비)](https://data.seoul.go.kr/dataList/OA-21278/S/1/datasetView.do)
