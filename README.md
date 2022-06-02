@@ -13,8 +13,7 @@
 
 <br>
 
-## about datathon
-**<평가 방식>** 
+## Evaluation criteria
 
 - EDA 및 시각화가 적절하게 이루어졌는가? (15%)
 - 데이터 분석을 통한 인사이트가 도출이 잘 되었는가? (15%)
@@ -25,7 +24,7 @@
 
 <br>
 
-## 수집 데이터
+## Data collection
 
 - dataset1) [우리마을가게 상권분석서비스(상권영역)](https://data.seoul.go.kr/dataList/OA-15560/S/1/datasetView.do)
 - dataset2) [우리마을가게 상권분석서비스(상권-상주인구)](https://data.seoul.go.kr/dataList/OA-15584/S/1/datasetView.do#)
