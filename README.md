@@ -41,6 +41,6 @@ Reference data
 <br>
 
 ## Link
-- 결과물 코드 깃허브 링크 : https://nbviewer.org/github/aiffel-capitalism/Dataton/~~~~
-- 최종발표자료 : 
-- 일정 관리 및 회의 자료 정리 : https://docs.google.com/spreadsheets/d/1AqSdUU7JgqSkFH6ltXre85eMR8HsIXwn0CCvsIuPCX8/edit#gid=1461026471
+- [결과물 코드 깃허브 링크](https://nbviewer.org/github/aiffel-capitalism/Dataton/blob/main/commercial_district_analysis.ipynb)
+- [최종발표자료](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4f21a5f5-d162-46e1-bd8d-0f280e1b4db9/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%86%A4_%EC%83%81%EA%B6%8C-%EB%B6%84%EC%84%9D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T150910Z&X-Amz-Expires=86400&X-Amz-Signature=213d98639394876d6ee0260dbf353a86740882468f3b6771ee39384f406102ee&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0%25ED%2586%25A4_%25EC%2583%2581%25EA%25B6%258C-%25EB%25B6%2584%25EC%2584%259D.pdf%22&x-id=GetObject)
+- [일정 관리 및 회의 자료 정리](https://docs.google.com/spreadsheets/d/1AqSdUU7JgqSkFH6ltXre85eMR8HsIXwn0CCvsIuPCX8/edit#gid=1461026471)
