@@ -25,15 +25,15 @@
 
 <br>
 
-### 수집 데이터
+## 수집 데이터
 
-- dataset1) 상권정보
-- dataset2) 상권영역
+- dataset1) 우리마을가게 상권분석서비스(상권영역)[https://data.seoul.go.kr/dataList/OA-15560/S/1/datasetView.do]
+- dataset2) 우리마을가게 상권분석서비스(상권-상주인구)
 - dataset3) ~
 
 <br>
 
-###### Link
+## Link
 - 결과물 코드 깃허브 링크 : https://nbviewer.org/github/aiffel-capitalism/Dataton/~~~~
 - 최종발표자료 PPT : 
 - ?엑셀 : https://docs.google.com/spreadsheets/d/1AqSdUU7JgqSkFH6ltXre85eMR8HsIXwn0CCvsIuPCX8/edit#gid=1461026471
