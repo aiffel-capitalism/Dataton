@@ -2,6 +2,8 @@
 
 <h3 align="center"> 소상공인시장진흥공단 상권 정보 분석팀 **자본주의** </h3>
 
+<br>
+
 ## Description
 
 - 주제 : 서울시 상권 정보에 대하여 EDA, Visualization을 수행 및 인사이트 도출 프로젝트
@@ -9,6 +11,7 @@
 - 인원 : 진샛별, 유재연, 지정용
 - 과정 :
 
+<br>
 
 ## about datathon
 **<평가 방식>** 
@@ -20,11 +23,15 @@
 - 발표시간을 준수하였는지? (25%)
 - 가점 : 교육생들의 따봉 (좋아요 수치를 합산하여 가산점으로 반영)
 
+<br>
+
 ### 수집 데이터
 
 - dataset1) 상권정보
 - dataset2) 상권영역
 - dataset3) ~
+
+<br>
 
 ###### Link
 - 결과물 코드 깃허브 링크 : https://nbviewer.org/github/aiffel-capitalism/Dataton/~~~~
