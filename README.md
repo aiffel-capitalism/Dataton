@@ -42,5 +42,5 @@ Reference data
 
 ## Link
 - [결과물 코드 깃허브 링크](https://nbviewer.org/github/aiffel-capitalism/Dataton/blob/main/commercial_district_analysis.ipynb)
-- 최종발표자료
+- [최종발표자료](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a83c946-4365-43fc-ac43-3d33528325f3/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%86%A4_%EC%83%81%EA%B6%8C_%EB%B6%84%EC%84%9D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T231617Z&X-Amz-Expires=86400&X-Amz-Signature=48219c539b4da1552c4c7320d785c184477c463d343fc71d98451978a1b3a97b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0%25ED%2586%25A4_%25EC%2583%2581%25EA%25B6%258C_%25EB%25B6%2584%25EC%2584%259D.pdf%22&x-id=GetObject)
 - [일정 관리 및 회의 자료 정리](https://docs.google.com/spreadsheets/d/1AqSdUU7JgqSkFH6ltXre85eMR8HsIXwn0CCvsIuPCX8/edit#gid=1461026471)
