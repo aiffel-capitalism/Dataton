@@ -28,14 +28,14 @@
 Original data
 - [소상공인시장진흥공단 상권 정보](https://www.data.go.kr/data/15083033/fileData.do)
 
-외부 데이터
-- dataset1) [우리마을가게 상권분석서비스(상권영역)](https://data.seoul.go.kr/dataList/OA-15560/S/1/datasetView.do)
-- dataset2) [우리마을가게 상권분석서비스(상권-상주인구)](https://data.seoul.go.kr/dataList/OA-15584/S/1/datasetView.do#)
-- dataset3) [우리마을가게 상권분석서비스(상권-소득소비)](https://data.seoul.go.kr/dataList/OA-21278/S/1/datasetView.do)
-- dataset4) [우리마을가게 상권분석서비스(상권-직장인구)](https://data.seoul.go.kr/dataList/OA-15569/S/1/datasetView.do)
-- dataset5) [우리마을가게 상권분석서비스(상권-추정매출)](https://data.seoul.go.kr/dataList/OA-15572/S/1/datasetView.do)
-- dataset6) [우리마을가게 상권분석서비스(상권-생활인구)](https://data.seoul.go.kr/dataList/OA-15568/S/1/datasetView.do)
-- dataset7) [우리마을가게 상권분석서비스(자치구-상권변화지표)](https://data.seoul.go.kr/dataList/OA-15567/S/1/datasetView.do)
+Reference data
+- [우리마을가게 상권분석서비스(상권영역)](https://data.seoul.go.kr/dataList/OA-15560/S/1/datasetView.do)
+- [우리마을가게 상권분석서비스(상권-상주인구)](https://data.seoul.go.kr/dataList/OA-15584/S/1/datasetView.do#)
+- [우리마을가게 상권분석서비스(상권-소득소비)](https://data.seoul.go.kr/dataList/OA-21278/S/1/datasetView.do)
+- [우리마을가게 상권분석서비스(상권-직장인구)](https://data.seoul.go.kr/dataList/OA-15569/S/1/datasetView.do)
+- [우리마을가게 상권분석서비스(상권-추정매출)](https://data.seoul.go.kr/dataList/OA-15572/S/1/datasetView.do)
+- [우리마을가게 상권분석서비스(상권-생활인구)](https://data.seoul.go.kr/dataList/OA-15568/S/1/datasetView.do)
+- [우리마을가게 상권분석서비스(자치구-상권변화지표)](https://data.seoul.go.kr/dataList/OA-15567/S/1/datasetView.do)
 
 
 <br>
